@@ -91,6 +91,7 @@ int main()
                 preorder_traversal(root);
             }
             break;
+
         case 3:
             printf("The Inorder Traversal is : ");
             inorder_traversal(root);
